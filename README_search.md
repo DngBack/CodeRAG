@@ -1,5 +1,4 @@
-# CodeRAG
-It is only RAG with data for chunk is code. 
+# Code Semantic Search với Tree-Sitter và LanceDB
 
 Hệ thống semantic search cho code sử dụng tree-sitter chunking và LanceDB để index và tìm kiếm code một cách thông minh.
 
